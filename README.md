@@ -29,6 +29,6 @@ Cloud & Infra 중심의 실무 교육 과정에 참여하며 시스템 운영 �
 
 ## 🏅 알고리즘 & 문제 해결
 
-* LeetCode 프로필
+* LeetCode 프로필  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/handgarden)
 ---
